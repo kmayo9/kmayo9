@@ -15,22 +15,38 @@ I turn complexity into clarity. Whether it’s rescuing runtime charts from genr
 - Managed global sourcing and 3PL logistics across multiple international regions
 - Boosted warehouse productivity by 38% through Lean 5S initiatives and layout redesign
 
-🖥️ Featured Dashboards
+---
+
+## 🎯 Featured Dashboards
+
+---
 
 📊 TV Runtime Trends Dashboard  
 Segmented over 3,000 films by genre, theme, and studio using tooltip-rich Tableau visuals. Revealed pacing strategies across genres — fantasy stretches, thrillers stay lean.  
-**Tools**: Tableau, Kaggle, GitHub Pages  
-**Impact**: Created a genre forecasting model for runtime expectations and pacing trends.
+Tools: Tableau, Kaggle, GitHub Pages  
+Impact: Created a genre forecasting model for runtime expectations and pacing trends.
+
+---
 
 🧠 Theme Impact Analyzer  
 Calculated emotional tone scores for film themes across studios. Designed with color logic and filterable dashboards for clear narrative contrast.  
-**Tools**: Tableau, Calculated Fields, GitHub Pages  
-**Impact**: Enables studios and analysts to visualize tonal bias and thematic frequency.
+Tools: Tableau, Calculated Fields, GitHub Pages  
+Impact: Enables studios and analysts to visualize tonal bias and thematic frequency.
+
+---
 
 🌀 Genre Segmentation Explorer  
 Mapped genre scoring and evolution across thousands of films. Integrated runtime clustering with tooltip-enhanced film-level data.  
-**Tools**: Tableau, Kaggle  
-**Impact**: Supports genre trend analysis and visual storytelling strategies.
+Tools: Tableau, Kaggle  
+Impact: Supports genre trend analysis and visual storytelling strategies.
+
+---
+
+🔎 Explore these dashboards live on [GitHub Pages](https://kmayo9.github.io/)
+
+
+
+
 
 
 🔧 Tools & Technologies  
