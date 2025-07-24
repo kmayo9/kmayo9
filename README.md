@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Kevin Mayo
+👋 Hi, I'm Kevin Mayo  
+📊 Data Storyteller | ERP Strategist | Supply Chain Optimizer
 
-🧭 Data-Driven Supply Chain Leader | ERP & BI Strategist | Continuous Improvement Advocate
-
-I build lean, resilient, and cost-effective supply chains that scale — saving over $4M through smart procurement, global sourcing, and analytics execution.
+I turn complexity into clarity. Whether it’s rescuing runtime charts from genre chaos or building multi-million-dollar savings strategies in NetSuite, I live at the intersection of systems and storytelling. My dashboards aren’t just data , they’re designed to resonate.
 
 📈 Highlights from the Field:
 - Negotiated $4M+ in supplier savings through cost modeling and consolidated sourcing  
@@ -15,6 +14,23 @@ I build lean, resilient, and cost-effective supply chains that scale — saving 
 - Reduced manual purchasing steps by 40% with NetSuite workflow automation (Roam Pets)
 - Managed global sourcing and 3PL logistics across multiple international regions
 - Boosted warehouse productivity by 38% through Lean 5S initiatives and layout redesign
+
+🖥️ Featured Dashboards
+
+📊 TV Runtime Trends Dashboard  
+Segmented over 3,000 films by genre, theme, and studio using tooltip-rich Tableau visuals. Revealed pacing strategies across genres — fantasy stretches, thrillers stay lean.  
+**Tools**: Tableau, Kaggle, GitHub Pages  
+**Impact**: Created a genre forecasting model for runtime expectations and pacing trends.
+
+🧠 Theme Impact Analyzer  
+Calculated emotional tone scores for film themes across studios. Designed with color logic and filterable dashboards for clear narrative contrast.  
+**Tools**: Tableau, Calculated Fields, GitHub Pages  
+**Impact**: Enables studios and analysts to visualize tonal bias and thematic frequency.
+
+🌀 Genre Segmentation Explorer  
+Mapped genre scoring and evolution across thousands of films. Integrated runtime clustering with tooltip-enhanced film-level data.  
+**Tools**: Tableau, Kaggle  
+**Impact**: Supports genre trend analysis and visual storytelling strategies.
 
 
 🔧 Tools & Technologies  
