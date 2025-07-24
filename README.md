@@ -13,7 +13,8 @@ I build lean, resilient, and cost-effective supply chains that scale — saving 
 
 🔧 Tools & Technologies  
 Power BI | IBM Cognos | Tableau | Excel | Python | SQL | GitHub Pages  
-NetSuite (ERP & WMS) | SAP (Manufacturing Systems) | Dynamics 365 | ABC Inventory | MRP Tools
+NetSuite (ERP & WMS) | SAP (Manufacturing ERP) | MRP Tools | Dynamics 365 
+
 
 🏷️ Skill Badges  
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard_Design-blue?style=for-the-badge&logo=tableau&logoColor=white)  
