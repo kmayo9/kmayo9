@@ -32,7 +32,7 @@ Google Data Analytics Professional Certificate (V2)
 Oracle AI Foundations Associate (2025)  
 Lean Six Sigma Professional (LSSP-I), Green Belt  
 Certified Process Improvement Specialist (CPIS)  
-Certified Internal Auditor (Food & Beverage)  
+  
 
 📊 Featured Work  
 🌐 [GitHub Pages Portfolio](https://kmayo9.github.io)  
