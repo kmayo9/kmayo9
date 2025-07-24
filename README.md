@@ -11,6 +11,12 @@ I build lean, resilient, and cost-effective supply chains that scale — saving 
 - Developed demand-planning models that improved forecast accuracy by 35%  
 - Cut operational errors by 40% via Lean Six Sigma and workflow optimization
 
+  📌 Recent Wins
+- Reduced manual purchasing steps by 40% with NetSuite workflow automation (Roam Pets)
+- Managed global sourcing and 3PL logistics across multiple international regions
+- Boosted warehouse productivity by 38% through Lean 5S initiatives and layout redesign
+
+
 🔧 Tools & Technologies  
 Power BI | IBM Cognos | Tableau | Excel | Python | SQL | GitHub Pages  
 NetSuite (ERP & WMS) | SAP (Manufacturing ERP) | MRP Tools | Dynamics 365 
