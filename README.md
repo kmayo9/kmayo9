@@ -11,7 +11,7 @@ I turn complexity into clarity. Whether it’s rescuing runtime charts from genr
 - Cut operational errors by 40% via Lean Six Sigma and workflow optimization
 
   📌 Recent Wins
-- Reduced manual purchasing steps by 40% with NetSuite workflow automation (Roam Pets)
+- Reduced manual purchasing steps by 40% with NetSuite workflow automation 
 - Managed global sourcing and 3PL logistics across multiple international regions
 - Boosted warehouse productivity by 38% through Lean 5S initiatives and layout redesign
 
