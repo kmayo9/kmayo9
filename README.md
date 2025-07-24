@@ -28,9 +28,8 @@ Continuous Improvement Practitioner
 
 📬 Let’s Connect  
 [LinkedIn](https://www.linkedin.com/in/k-mayo)  
-Email: kmayo9@gmail.com  
+Email: kmayo9@gmail.com
 
 ---
 
 🛠️ Always refining systems, always chasing clarity. Let’s optimize something together.
-
