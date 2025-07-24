@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Kevin Mayo
 
-🧭 Data-Driven Supply Chain Leader | ERP Implementation Strategist | Tableau Storyteller
+Supply Chain Leader | BI & ERP Storytelling with Tableau, Power BI, Cognos
+
 
 I build lean, resilient, and cost-effective supply chains that scale — saving over $4M across roles through smart procurement, logistics strategy, and analytics execution.
 
