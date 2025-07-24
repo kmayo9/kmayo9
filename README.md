@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Kevin Mayo
 
-<!--
-**kmayo9/kmayo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧭 Data-Driven Supply Chain Leader | ERP Implementation Strategist | Tableau Storyteller
 
-Here are some ideas to get you started:
+I build lean, resilient, and cost-effective supply chains that scale — saving over $4M across roles through smart procurement, logistics strategy, and analytics execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Highlights from the Field:
+- Cut unit costs by 59% through strategic sourcing and vendor optimization
+- Improved inventory accuracy from <5% to >95% via ERP accountability systems
+- Led multiple full-cycle NetSuite ERP implementations across warehouse, finance, and inventory operations
+- Delivered 90% reduction in out-of-stocks with MRP and demand planning
+
+🔧 Tools & Technologies  
+Tableau | Python | SQL | GitHub Pages  
+NetSuite | SAP | WMS | ABC Inventory | MRP Tools
+
+🎓 Certifications  
+IBM Data Analyst Professional Certificate (V3)  
+Google Data Analytics Professional Certificate (V2)  
+Oracle AI Foundations Associate (2025)  
+Lean Six Sigma Green Belt  
+Continuous Improvement Practitioner
+
+📊 Featured Work  
+🌐 [GitHub Pages Portfolio](https://kmayo9.github.io)  
+- Embedded Tableau dashboards with tooltip-rich visualizations  
+- Analytical deep-dives blending runtime segmentation, genre impact, and color logic
+
+📬 Let’s Connect  
+[LinkedIn](https://www.linkedin.com/in/k-mayo)  
+Email: kmayo9@gmail.com
+
+---
+
+🛠️ Always refining systems, always chasing clarity. Let’s optimize something together.
